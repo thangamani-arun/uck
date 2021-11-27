@@ -1,0 +1,3 @@
+apt-get install vlc gstreamer1.0-* m17n-db m17n-contrib ibus-m17n calibre gimp stellarium ktouch google-chrome-beta \
+google-earth-stable tuxpaint scribus xbmc audacity blender sudoku childsplay audacity  gcompris imagemagick
+
